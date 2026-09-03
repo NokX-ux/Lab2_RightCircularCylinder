@@ -1,4 +1,4 @@
-// Your Name
+// Noureddine Selka
 // CSC 142
 // Lab 2: Right Circular Cylinder
 
